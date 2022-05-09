@@ -17,6 +17,9 @@ function solve(age){
     else if(age >= 66){
         console.log("elder");
     }
+    else{
+        console.log("out of bounds");
+    }
 }
 
 // Print the result:
